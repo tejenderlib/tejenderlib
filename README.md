@@ -9,11 +9,9 @@ Focused on consistency and practical understanding.
 
 <h2>Skills</h2>
 
-I am a skilled computer user and proficient in the use of Linux desktops. I am comfortable with all versions of the operating system, but my preferred version is Linux, I have experience working in a team environment and can contribute ideas that help improve productivity and efficiency. I also have experience communicating effectively with clients and co-workers.
+Comfortable working in Linux environments and using systems at a deeper level, not just as a user. I prefer hands-on work experimenting, troubleshooting, and understanding how things actually work. Able to work independently or with others, focusing on clear communication and practical solutions..
 
 I've developed industry-standard skills in :
-
-
 
 ![My Skills](https://skillicons.dev/icons?i=py,c,html,css,gcp,linux)
 
