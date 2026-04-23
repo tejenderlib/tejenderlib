@@ -2,14 +2,10 @@
 
 
 <h1> About </h1>  
-I'm a student of Cyber Security. I'm good in data security and IOTs.
-I have experience as a Front-end developer, so I'm able to work with all the tools necessary to make it happen. I can also help you with web development, design, and 
-even marketing.
+Self-taught developer exploring cybersecurity, cloud, and systems.  
+Learning by building, breaking, and figuring things out through real projects.  
+Focused on consistency and practical understanding.
 </br>  
-My passion of life learning new things, solving problems and solving complex problems is what keeps me going every day! I love doing projects and
-I love cyber security because they are challenging problems with tons of information available online that can help you solve them easier than other people would have 
-done it before you got there!
-
 
 <h2>Skills</h2>
 
